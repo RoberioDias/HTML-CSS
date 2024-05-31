@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body{
+    margin: 0px ;
+    background-color: #5cffa8;
+}
+header{
+    text-align: center;
+    background-image: linear-gradient(to top, #288d57, #32c074, #46fc9b)
+      ;
+}
+h1{
+    margin: 0px;
+}
+nav{
+    text-align: left;
+    
+    
+}
+a{
+    margin-right: 30px;
+    color: white;
+    text-decoration: none;
+}
+main{
+    background-color: white;
+    margin: 0px 15px 0px 15px;
+    padding: 5px;
+}
